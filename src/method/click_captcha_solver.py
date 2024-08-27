@@ -1,7 +1,5 @@
 import os
 
-from src.utils import ver_onnx
-from src.utils import yolo_onnx
 from src.utils import utils
 from src.utils.ver_onnx import PreONNX
 from src.utils.yolo_onnx import YOLOV5_ONNX
